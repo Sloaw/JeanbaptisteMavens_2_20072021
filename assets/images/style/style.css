@@ -1,0 +1,49 @@
+.Sous-container{
+    display: flex;
+    margin-left: 69%;
+    color: #0065FC;
+    padding: 32px;
+    text-align: center;
+    
+    
+
+
+    
+}
+
+#activites{
+    margin-left: 60px;
+    margin-right: 60px;
+}    
+
+
+
+#logo{
+    position: absolute;
+    width: 97px;
+    margin-left: 7.6%;
+    top: 30px;
+    padding: 0 2rem;
+}
+
+.searchTitreHeader{
+    margin-left: 180px;
+    font-size: 2em;
+}
+
+.searchSousTitreHeader{
+    margin-left: 180px;
+
+    
+}
+
+
+
+
+
+    
+
+
+
+
+
