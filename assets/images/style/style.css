@@ -29,12 +29,31 @@
 .searchTitreHeader{
     margin-left: 180px;
     font-size: 2em;
+    margin-bottom: 0.5rem;
 }
 
 .searchSousTitreHeader{
-    margin-left: 180px;
-
+    margin-left: 184px;
+    margin-top: 0;
     
+}
+
+.searchChoise{
+    display: inline-flex;
+    margin-left: 180px;
+    margin-top: 0;
+    background-color: #F2F2F2;
+    padding: 1rem 1.25rem;
+    border-radius: 1rem 0 0 1rem;
+    text-align: center;
+    
+
+
+}
+
+.searchPosition{
+    
+
 }
 
 
