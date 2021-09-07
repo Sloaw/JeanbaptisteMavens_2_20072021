@@ -32,13 +32,17 @@
     margin-bottom: 0.5rem;
 }
 
+.body{
+    font-family: "Raleway";
+}
+
 .searchSousTitreHeader{
     margin-left: 184px;
     margin-top: 0;
     
 }
 
-.searchChoise{
+.searchPosition{
     display: inline-flex;
     margin-left: 180px;
     margin-top: 0;
@@ -47,13 +51,61 @@
     border-radius: 1rem 0 0 1rem;
     text-align: center;
     
+}
 
+.searchPays{
+    display: inline-flex;
+    padding: 14px;
+    width: 240px;
+    font-weight: bold;
+}
+
+.searchEntrer{
+    padding: 14px;
+    height: 60rem;
+    background-color: #0065FC;
+    color: white;
+    border-radius: 0 1rem 1rem 0;
+}
+
+.searchFilters{
+    display: flex;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+    margin-left: 180px;
 
 }
 
-.searchPosition{
-    
+.Result{
+    display: flex;
+    align-items: center;
+    margin-left: 180px;
+}
 
+.searchFilterFtitre{
+    display: flex;
+    align-items: center;
+    margin: 1rem;   
+background-color:#deebff;
+}
+
+.searchFiltersF{
+    display: flex;
+    align-items: center;
+    margin-right: 2rem;
+    border: 2px solid #d9d9d9;
+    border-radius: 2rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    transition-duration: 0.1s;
+    font-weight: bold;
+    
+    
+}
+
+.footer{
+    background-color: #f2f2f2;
+    width: 100%;
 }
 
 
